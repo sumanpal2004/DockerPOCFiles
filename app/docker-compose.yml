@@ -1,0 +1,7 @@
+version: '2'
+
+services:
+  microservice1:
+    image: username/microservice1
+    ports:
+      - "80:80"
