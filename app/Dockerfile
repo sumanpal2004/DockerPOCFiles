@@ -1,4 +1,4 @@
-FROM microsoft/latest
+FROM microsoft/dotnet:latest
 
 # Set the Working Directory
 WORKDIR /app
